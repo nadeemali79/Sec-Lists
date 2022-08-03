@@ -1,0 +1,10 @@
+<Configuration> 
+<MappedFolders> 
+      <MappedFolder> 
+      <HostFolder>C:\Users\Public\Sandbox_Scripts</HostFolder> 
+	  <ReadOnly>true</ReadOnly> 
+</MappedFolder> 
+</MappedFolders> 
+<LogonCommand> <Command>C:\users\wdagutilityaccount\desktop\Sandbox_Scripts\InstallVSCode.cmd</Command> 
+</LogonCommand> 
+</Configuration> 

@@ -1,0 +1,12 @@
+<Configuration>
+    <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\Public\Sandbox\from_host_machine</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
+      <ReadOnly>True</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>explorer.exe C:\users\WDAGUtilityAccount\Downloads</Command>
+  </LogonCommand>
+</Configuration>

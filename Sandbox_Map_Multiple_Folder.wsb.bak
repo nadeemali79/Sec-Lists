@@ -1,0 +1,16 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Path\to\Folder1</HostFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>C:\Path\to\Folder2</HostFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>C:\Path\to\Folder3</HostFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+</Configuration>
